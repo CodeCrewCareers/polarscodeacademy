@@ -1,5 +1,9 @@
 title: Polars Code Academy
 theme: jekyll-theme-cayman
+google_analytics: G-RNRDDFWHX6
+
+plugins:
+- jekyll-remote-theme
 
 show_downloads: false
 github:

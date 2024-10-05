@@ -1,3 +1,5 @@
 title: Polars Code Academy
-link: https://www.youtube.com/@PolarsCodeAcademy
 theme: jekyll-theme-cayman
+
+github:
+  another_url: https://www.youtube.com/@PolarsCodeAcademy

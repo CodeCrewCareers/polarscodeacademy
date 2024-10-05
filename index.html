@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Polars Code Academy</title>
+</head>
+
+<body>
+  <h1>Latest Videos</h1>
+  <ul id="youtube-titles"></ul>
+
+  <script>
+    async function fetchYouTubeFeed() {
+      const rssFeedUrl = 'https://rss2json.com/api.json?rss_url=https://www.youtube.com/feeds/videos.xml?channel_id=UCFaPNTDJga0Ebwvftju9jMQ';
+
+      // Fetch the RSS feed as JSON from rss2json
+      const response = await fetch(rssFeedUrl);
+      const data = await response.json();
+
+      const titlesList = document.getElementById('youtube-titles');
+      data.items.forEach(item => {
+        const title = item.title;
+        const link = item.link;
+
+        // Create list item with title and link
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
+        titlesList.appendChild(li);
+      });
+    }
+
+    fetchYouTubeFeed();
+  </script>
+</body>
+
+</html>

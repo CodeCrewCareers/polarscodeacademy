@@ -1,0 +1,31 @@
+Employee ID	First Name	Last Name	Gender	Date of Birth	Department	Position	Salary ($)	Email	Phone
+1	John	Smith	Male	1985-03-15	Sales	Sales Manager	75000	john.smith@example.com	123-456-7890
+2	Jane	Doe	Female	1990-07-20	HR	HR Specialist	60000	jane.doe@example.com	234-567-8901
+3	Michael	Johnson	Male	1988-11-10	IT	IT Manager	80000	michael.j@example.com	345-678-9012
+4	Emily	Williams	Female	1992-04-25	Marketing	Marketing Spec	55000	emily.w@example.com	456-789-0123
+5	David	Brown	Male	1987-09-08	Finance	Accountant	65000	david.b@example.com	567-890-1234
+6	Sarah	Jones	Female	1991-06-12	IT	Developer	70000	sarah.j@example.com	678-901-2345
+7	Jason	Lee	Male	1986-12-30	Sales	Sales Rep	55000	jason.lee@example.com	789-012-3456
+8	Melissa	Davis	Female	1993-01-18	HR	HR Assistant	45000	melissa.d@example.com	890-123-4567
+9	Christopher	Wilson	Male	1989-08-05	IT	QA Analyst	60000	chris.w@example.com	901-234-5678
+10	Amanda	Martinez	Female	1995-02-28	Marketing	Marketing Coord	48000	amanda.m@example.com	012-345-6789
+11	Kevin	Anderson	Male	1990-05-10	Finance	Financial Anlyst	68000	kevin.a@example.com	123-456-7890
+12	Olivia	Thompson	Female	1987-07-15	IT	System Analyst	72000	olivia.t@example.com	234-567-8901
+13	William	Harris	Male	1994-09-22	Sales	Sales Rep	52000	william.h@example.com	345-678-9012
+14	Sophia	White	Female	1988-11-07	HR	HR Specialist	62000	sophia.w@example.com	456-789-0123
+15	Daniel	Martin	Male	1991-03-18	Finance	Accountant	68000	daniel.m@example.com	567-890-1234
+16	Mia	Garcia	Female	1986-06-29	Marketing	Marketing Manager	75000	mia.g@example.com	678-901-2345
+17	Andrew	Rodriguez	Male	1989-12-12	IT	Developer	70000	andrew.r@example.com	789-012-3456
+18	Isabella	Adams	Female	1993-04-02	Sales	Sales Rep	53000	isabella.a@example.com	890-123-4567
+19	Ethan	Scott	Male	1996-01-30	HR	HR Assistant	46000	ethan.s@example.com	901-234-5678
+20	Mia	Baker	Female	1992-08-15	Marketing	Marketing Coord	49000	mia.b@example.com	012-345-6789
+21	Alexander	Young	Male	1985-10-25	Finance	Financial Anlyst	70000	alex.y@example.com	123-456-7890
+22	Ava	King	Female	1987-09-01	IT	System Analyst	73000	ava.k@example.com	234-567-8901
+23	Benjamin	Hill	Male	1994-07-19	Sales	Sales Rep	54000	benjamin.h@example.com	345-678-9012
+24	Harper	Green	Female	1988-04-14	HR	HR Specialist	63000	harper.g@example.com	456-789-0123
+25	Henry	Turner	Male	1990-06-08	Finance	Accountant	70000	henry.t@example.com	567-890-1234
+26	Amelia	Hall	Female	1995-03-27	Marketing	Marketing Manager	77000	amelia.h@example.com	678-901-2345
+27	Samuel	Lewis	Male	1986-11-02	IT	Developer	72000	samuel.l@example.com	789-012-3456
+28	Elizabeth	Adams	Female	1992-01-08	Sales	Sales Rep	55000	elizabeth.a@example.com	890-123-4567
+29	Benjamin	Walker	Male	1996-02-17	HR	HR Assistant	47000	benjamin.w@example.com	901-234-5678
+30	Evelyn	Carter	Female	1991-07-05	Finance	Financial Anlyst	72000	evelyn.c@example.com	012-345-6789

@@ -19,8 +19,13 @@ git clone https://github.com/CodeCrewCareers/polarscodeacademy.git
 ## Column Name Expressions
 * [POWERFUL Case Convention Expressions in Polars](https://www.youtube.com/watch?v=QYYtsKnwmcw)
 
+## Computation Expressions
+* [Protect Your Data Like a Pro Using Hash Functions](https://www.youtube.com/watch?v=lH4SlQBt_1o)
+
 ## Data Validation
 * [How to Validate Polars DataFrames with Patito (Coming Soon!)]()
+
+
 
 ## Custom Expressions
 * [How I Created a Bell Curve Grading Tool with Polars](https://www.youtube.com/watch?v=e9UCRFvU33E)

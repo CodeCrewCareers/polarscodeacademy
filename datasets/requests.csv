@@ -1,4 +1,4 @@
-requestId,requestor,requestType,description,requestDate
+requestId,requestor,requestType,Description,requestDate
 1,Bob,Edit,Edit an existing record,2024-06-02
 2,Bob,Edit,Edit an existing record,2024-11-18
 3,Eve,Delete,Remove a record,2024-08-26

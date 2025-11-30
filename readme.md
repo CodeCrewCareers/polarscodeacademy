@@ -2,30 +2,36 @@
 
 Welcome to the official Polars Code Academy Repo. You can find Jupyter notebooks and datasets used in our tutorials. 
 
-## Clone the Repo
+## Getting Started
+
+### 1. Cloning the Repo
+
 We recommend you clone the entire repo. Doing so will make it so that all jupyter notebooks will run successfully. 
 
 ```
 git clone https://github.com/CodeCrewCareers/polarscodeacademy.git
 ```
 
+### 2. Quick Virtual Environment Setup
 
-# Topics
+To start running the notebooks right away, we recommend you create a virtual environment using uv. Should take less than 5 seconds with the following commands:
 
-## Inputs & Outputs
-* [How to Use the Polars read_csv Function (Revisited) (Coming Soon!)]()
-* [How to Read & Write Schemas with the NEW polars-extenions Library](https://www.youtube.com/watch?v=I2760ZTykEI)
-
-## Column Name Expressions
-* [POWERFUL Case Convention Expressions in Polars](https://www.youtube.com/watch?v=QYYtsKnwmcw)
-
-## Computation Expressions
-* [Protect Your Data Like a Pro Using Hash Functions](https://www.youtube.com/watch?v=lH4SlQBt_1o)
-
-## Data Validation
-* [How to Validate Polars DataFrames with Patito (Coming Soon!)]()
+```cmd
+uv venv
+uv pip install -r requirements.txt
+```
 
 
 
-## Custom Expressions
-* [How I Created a Bell Curve Grading Tool with Polars](https://www.youtube.com/watch?v=e9UCRFvU33E)
+## Docker Containers
+
+We started using docker containers to give learners the ability to quickly spin up databases used in our videos. These  containers require a slightly more technical setup, but they provide great real life practice. 
+
+Create Container
+```ps1
+docker compose up -d
+```
+Check that it's Running
+```ps1
+docker ps
+```

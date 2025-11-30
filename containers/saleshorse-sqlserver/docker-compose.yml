@@ -1,0 +1,21 @@
+version: '3.9'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: saleshorse-sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "YourStrong!Passw0rd"
+      ACCEPT_EULA: "Y"
+    volumes:
+      - ./sql-scripts:/sql-scripts
+      - sqlserverdata:/var/opt/mssql
+    command: >
+      /bin/bash -c "/opt/mssql/bin/sqlservr & sleep 20; 
+      /opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P $SA_PASSWORD -i /sql-scripts/init.sql; wait"
+    restart: unless-stopped
+
+volumes:
+  sqlserverdata:

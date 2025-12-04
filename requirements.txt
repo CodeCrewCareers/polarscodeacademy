@@ -45,3 +45,4 @@ wcwidth==0.2.14
 connectorx
 pymysql
 polars-extensions
+shapely

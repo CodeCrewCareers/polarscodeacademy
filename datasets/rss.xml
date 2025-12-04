@@ -1,0 +1,115 @@
+<rss version="2.0">
+    <channel name="PYPI">
+        <title>PyPI recent updates for polars-extensions</title>
+        <link>https://pypi.org/project/polars-extensions/</link>
+        <description>Recent updates to the Python Package Index for polars-extensions</description>
+        <language>en</language>
+        <item>
+            <title>1.1.0</title>
+            <link>https://pypi.org/project/polars-extensions/1.1.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Sat, 29 Nov 2025 19:35:40 GMT</pubDate>
+            <category>Polars</category>
+            <category>Extensions</category>
+...
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <link>https://pypi.org/project/polars-extensions/1.0.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Fri, 21 Nov 2025 06:15:35 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.9.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.9.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Tue, 14 Oct 2025 03:46:17 GMT</pubDate>
+            <category>Polars</category>
+            <category>1.52</category>
+            <category>Python Package</category>
+...
+        </item>
+        <item>
+            <title>0.8.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.8.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Thu, 07 Aug 2025 22:02:10 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.7.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.7.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Wed, 16 Jul 2025 22:38:37 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.6.1</title>
+            <link>https://pypi.org/project/polars-extensions/0.6.1/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Wed, 09 Jul 2025 06:27:20 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.6.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.6.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Wed, 09 Jul 2025 06:15:21 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.5.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.5.0/</link>
+            <description>The Library of Polars Extensions</description>
+
+            <pubDate>Fri, 17 Jan 2025 22:05:56 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.4.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.4.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Sun, 05 Jan 2025 08:18:43 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.3.1</title>
+            <link>https://pypi.org/project/polars-extensions/0.3.1/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Mon, 23 Dec 2024 05:03:31 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.3.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.3.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Tue, 03 Dec 2024 06:31:33 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.2.1</title>
+            <link>https://pypi.org/project/polars-extensions/0.2.1/</link>
+            <description>The Library of Polars Extensions</description>
+
+            <pubDate>Tue, 03 Dec 2024 03:54:41 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.2.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.2.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Sun, 24 Nov 2024 04:39:57 GMT</pubDate>
+...
+        </item>
+        <item>
+            <title>0.1.0</title>
+            <link>https://pypi.org/project/polars-extensions/0.1.0/</link>
+            <description>The Library of Polars Extensions</description>
+            <pubDate>Fri, 22 Nov 2024 21:56:50 GMT</pubDate>
+...
+        </item>
+...
+    </channel>
+...
+</rss>

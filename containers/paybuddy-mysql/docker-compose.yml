@@ -4,7 +4,7 @@ services:
     container_name: paybuddy-mysql
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: devdb
+      MYSQL_DATABASE: paybuddy
       MYSQL_USER: devuser
       MYSQL_PASSWORD: devpass
     ports:

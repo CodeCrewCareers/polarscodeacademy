@@ -4,7 +4,7 @@ services:
     container_name: saleshorse-mysql
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: devdb
+      MYSQL_DATABASE: saleshorse
       MYSQL_USER: devuser
       MYSQL_PASSWORD: devpass
     ports:

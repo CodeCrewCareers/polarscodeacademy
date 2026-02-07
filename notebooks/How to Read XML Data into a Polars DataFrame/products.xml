@@ -1,0 +1,20 @@
+<catalog>
+    <product sku="A123" available="true">
+        <name>Mechanical Keyboard</name>
+        <price currency="USD">129.99</price>
+        <features>
+            <feature>RGB Lighting</feature>
+            <feature>Hot-swappable switches</feature>
+            <feature>Aluminum frame</feature>
+        </features>
+    </product>
+
+    <product sku="B456" available="false">
+        <name>Noise Cancelling Headphones</name>
+        <price currency="USD">299.00</price>
+        <features>
+            <feature>ANC</feature>
+            <feature>Bluetooth 5.0</feature>
+        </features>
+    </product>
+</catalog>

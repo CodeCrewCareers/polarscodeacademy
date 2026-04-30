@@ -1,9 +1,7 @@
-version: '3.9'
-
 services:
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
-    container_name: saleshorse-sqlserver
+    container_name: pca-sqlserver
     ports:
       - "1433:1433"
     environment:
@@ -13,8 +11,8 @@ services:
       - ./sql-scripts:/sql-scripts
       - sqlserverdata:/var/opt/mssql
     command: >
-      /bin/bash -c "/opt/mssql/bin/sqlservr & sleep 20; 
-      /opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P $SA_PASSWORD -i /sql-scripts/init.sql; wait"
+      /bin/bash -c "/opt/mssql/bin/sqlservr & sleep 30;
+      /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P $$SA_PASSWORD -C -i /sql-scripts/init.sql; wait"
     restart: unless-stopped
 
 volumes:
